@@ -1,29 +1,5 @@
 # apology-wizard
 
-## Project setup
-```
-npm install
-```
+Vue.js apology wizard app.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Should you be sorry? Probably not. Either way, there's cute doggos.
